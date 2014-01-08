@@ -57,8 +57,8 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="ProductName" destination="80o-dO-fnr" id="THe-aE-EwS"/>
                                             <outlet property="productImage" destination="xBV-Yk-rDh" id="DMZ-ml-NQ2"/>
+                                            <outlet property="productName" destination="80o-dO-fnr" id="Ofg-Rc-ScO"/>
                                             <outlet property="productPrice" destination="XB3-FV-p0x" id="RnB-AJ-qyN"/>
                                         </connections>
                                     </tableViewCell>
